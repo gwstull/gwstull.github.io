@@ -1,3 +1,3 @@
 # Gregory W. Stull
 
-## Home   Projects    Field Work    Teeaching & Mentoring   Ethics    CV
+### [Home](link) [Projects](link) [Field Work](link) [Teeaching & Mentoring](link) [Ethics](link) [CV](link)
