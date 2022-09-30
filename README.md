@@ -1,3 +1,3 @@
-# Header
+# Gregory W. Stull
 
-## Header 2
+## Home   Projects    Field Work    Teeaching & Mentoring   Ethics    CV
