@@ -1,1 +1,1 @@
-WOW
+theme: minima
